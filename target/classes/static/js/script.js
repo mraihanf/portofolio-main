@@ -15,13 +15,13 @@ const menus = {
     1: `Who is Raihan?<br><br>I am a Back-End Developer who can learn quickly with less than 1 year of experience in building and maintaining websites in the IT industry. Proficient in Java Spring Boot integration, PostgreSQL, and APIs. Always striving to become a better person in terms of skills and character. Someone who is eager for experience and capable of adapting quickly in any situation.<br><br><span onclick="handleMenuClick('B')">[B] Back</span>`,
     2: `Contact:<br>- Email: <a href="mailto:fadhlullah24@gmail.com">fadhlullah24@gmail.com</a><br>- whatsapp: <a href="https://wa.me/+6282298906591">082298906591</a><br><br><span onclick="handleMenuClick('B')">[B] Back</span>`,
     3: `Some of my Projects:<br><br>
-- <strong>AMS</strong>: Asset Management System for BTV.<a href="" target="_blank">[]</a><br>
-- <strong>VCard</strong>: A web virtual Bussiness Card for BTV employee. <a href="" target="_blank">[]</a><br>
-- <strong>Daily Reporting</strong>: An Apps for daily reporting IT BTV. <a href="" target="_blank">[]</a><br>
-- <strong>One Basket</strong>: An Platform with transcoder using for contributor upload the news. <a href="" target="_blank">[]</a><br>
-- <strong>Project Management</strong>: An Platform for manager up using for making projects are monitored. <a href="" target="_blank">[]</a><br>
-- <strong>Information Systems</strong>: A page for hardware information on studio. <a href="" target="_blank">[]</a><br>
-- <strong>Schedule Information</strong>: A page for schedule information what's is on air. <a href="" target="_blank">[]</a><br><br>
+- <strong>AMS</strong>: Asset Management System for BTV.<a href="http://ams.raihanf.my.id" target="_blank">[Demo]</a><br>
+- <strong>VCard</strong>: A web virtual Bussiness Card for BTV employee. <a href="http://onebasket.b-universe.id:8110/Person/Raihan.fadhlullah" target="_blank">[Visit]</a><br>
+- <strong>Daily Reporting</strong>: An Apps for daily reporting IT BTV. <a href="" target="_blank"></a><br>
+- <strong>One Basket</strong>: An Platform with transcoder using for contributor upload the news. <a href="" target="_blank">[Coming]</a><br>
+- <strong>Project Management</strong>: An Platform for manager up using for making projects are monitored. <a href="" target="_blank">[Coming]</a><br>
+- <strong>Information Systems</strong>: A page for hardware information on studio. <a href="" target="_blank">[Coming]</a><br>
+- <strong>Schedule Information</strong>: A page for schedule information what's is on air. <a href="" target="_blank">[Coming]</a><br><br>
 <span onclick="handleMenuClick('B')">[B] Back</span>`
 };
 
